@@ -1,1 +1,2 @@
-/zlib.target.mk
+/*.host.mk
+/*.target.mk
