@@ -1,3 +1,7 @@
+***** THIS REPO IS DEPRECATED AND KEPT FOR HISTORICAL PURPOSES ******
+(people who want to build mod_pagespeed versions 1.13 and earlier need this 
+to exist)
+
 ZLIB DATA COMPRESSION LIBRARY
 
 zlib 1.2.11 is a general purpose data compression library.  All the code is
